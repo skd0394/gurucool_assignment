@@ -16,11 +16,7 @@ function App() {
       <Stack width={"100vw"} bgcolor={"#acd5ea"}>
         <FadeInAnimation />
       </Stack>
-      <SocialMediaBox/>
-      {/* <h1>Rotation Animation</h1>
-        <div id="rotation">
-          <RotateAnimation />
-        </div> */}
+      <SocialMediaBox />
     </>
   );
 }
