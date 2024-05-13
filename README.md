@@ -1,9 +1,34 @@
-# React + Vite
+# React + Vite GuruCool Assignment
+---
+## Animations
+* FadeIn
+* SlideIn
+* Rotation Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Desktop Version
+![PC GIF](./gif/pc_gif.gif)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# gurucool_assignment
+### Tablet
+
+![Tablet GIF](./gif/tab_gif.gif)
+
+
+### Mobile
+
+![Mobile GIF](./gif/mobile_gif.gif)
+
+# Triggering point for animations
+
+## FadeIn Animation
+> When we refresh the page we can see the [social media] text is being faded in.
+
+## SlideIn Animation
+> Similar to FadeIn, When we refresh the page we can see the [List of social medias] box is being slided from left to right.
+
+## Rotate Animation
+> Rotate animation is triggered when we click on the button associated with each of the social media container
+
+# Deployed Link
+[Visit Here](https://resplendent-croquembouche-0f4d8e.netlify.app/)
+
